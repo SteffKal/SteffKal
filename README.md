@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteffKal
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and azure tools
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on lots of exciting coding
 - 📫 How to reach me stefania.kalafati@gmail.com
